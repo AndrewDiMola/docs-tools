@@ -14,7 +14,7 @@ A bunch of links that point to documentation tools and generators.
 * **Javadoc**: Generate API documentation in HTML format from doc comments in source code
   * Website: https://www.oracle.com/java/technologies/javase/javadoc-tool.html
   * Demo: https://docs.oracle.com/javase/1.5.0/docs/api/
-* Sphinx: Translate a set of plain text source files, typically reStructuredText or Markdown, into various output formats
+* **Sphinx:** Translate a set of plain text source files, typically reStructuredText or Markdown, into various output formats
   * Website: https://www.sphinx-doc.org/
   * Demo: https://docs.readthedocs.io/
 
