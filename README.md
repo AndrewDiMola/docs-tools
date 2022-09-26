@@ -9,10 +9,14 @@ A bunch of links that point to documentation tools and generators.
 ## Documentation Tools
 
 * [GitHub Pages](https://pages.github.com/) - Create a website directly from a repository on GitHub.com
-* [Javadoc](https://www.oracle.com/java/technologies/javase/javadoc-tool.html) - Generate API documentation in HTML format from doc comments in source code
 * [Sphinx](https://www.sphinx-doc.org/) - Translate a set of plain text source files, typically reStructuredText or Markdown, into various output formats
+
+## Documentation Generators
+* [Javadoc](https://www.oracle.com/java/technologies/javase/javadoc-tool.html) - Java API documentation generator
+* [JSDoc](https://jsdoc.app/) - JavaScript API documentation generator
+* [EDoc](https://www.erlang.org/doc/apps/edoc/chapter.html) - Erlang documentation generator
 
 ## Other Things
 
 * [GitHub Emojis](https://gist.github.com/rxaviers/7360908) - :octocat: - Complete list of github markdown emoji markup
-* [Beautiful Docs](https://github.com/matheusfelipeog/beautiful-docs) - 📝 - List of docs and other developer resources that you may find particularly useful, well-written, or otherwise beautiful
+* [Beautiful Docs](https://github.com/matheusfelipeog/beautiful-docs) - 📝 - List of docs and other developer resources that you may find useful, well-written, or beautiful
