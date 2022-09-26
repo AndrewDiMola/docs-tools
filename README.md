@@ -7,7 +7,6 @@ A bunch of links that point to documentation tools and generators.
 ![Zelda from the Link Waker](https://c.tenor.com/xcwB_jp7loUAAAAC/link-zelda.gif)
 
 ## Documentation Tools
-
 * [GitHub Pages](https://pages.github.com/) - Create a website directly from a repository on GitHub.com
 * [Sphinx](https://www.sphinx-doc.org/) - Translate a set of plain text source files, typically reStructuredText or Markdown, into various output formats
 
@@ -16,7 +15,11 @@ A bunch of links that point to documentation tools and generators.
 * [JSDoc](https://jsdoc.app/) - JavaScript API documentation generator
 * [EDoc](https://www.erlang.org/doc/apps/edoc/chapter.html) - Erlang documentation generator
 
-## Other Things
+## Style Guides
+* [Google Developer Documentation](https://developers.google.com/style) - Style guide for Google-related developer documentation 
+* [Microsoft Writing](https://learn.microsoft.com/en-us/style-guide/welcome/) - Style guide for style and terminology related to computer technology
 
+## Other Things
 * [GitHub Emojis](https://gist.github.com/rxaviers/7360908) - :octocat: - Complete list of github markdown emoji markup
 * [Beautiful Docs](https://github.com/matheusfelipeog/beautiful-docs) - 📝 - List of docs and other developer resources that you may find useful, well-written, or beautiful
+* [Grammar Bytes!](https://twitter.com/grammarbytes) - :books: - Daily English grammar quizzes
