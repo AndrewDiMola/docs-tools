@@ -21,5 +21,5 @@ A bunch of links that point to documentation tools and generators.
 
 ## Other Things
 * [GitHub Emojis](https://gist.github.com/rxaviers/7360908) - :octocat: - Complete list of github markdown emoji markup
-* [Beautiful Docs](https://github.com/matheusfelipeog/beautiful-docs) - 📝 - List of docs and other developer resources that you may find useful, well-written, or beautiful
+* [Beautiful Docs](https://github.com/matheusfelipeog/beautiful-docs) - 📝 - List of docs and other resources that you may find useful, well-written, or beautiful
 * [Grammar Bytes!](https://twitter.com/grammarbytes) - :books: - Daily English grammar quizzes
