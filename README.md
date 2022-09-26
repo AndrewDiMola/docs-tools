@@ -13,7 +13,7 @@ A list of tools that are useful to know, use, or understand when working with or
 * [Sphinx](https://www.sphinx-doc.org/) - Translate plain text source files, typically reStructuredText or Markdown, to various output formats
 
 ## Documentation Generators
-A table of tools that automatically generate reference documentation for their accompanied programming language.
+A table of tools that automatically generate reference documentation for programming languages.
 
 | Language      | Name                                                                          | Description                            |
 | ------------- | ----------------------------------------------------------------------------- | -------------------------------------- |
