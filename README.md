@@ -11,8 +11,10 @@ A bunch of links that point to documentation tools and generators.
 * [Sphinx](https://www.sphinx-doc.org/) - Translate a set of plain text source files, typically reStructuredText or Markdown, into various output formats
 
 ## Documentation Generators
-* [Javadoc](https://www.oracle.com/java/technologies/javase/javadoc-tool.html) - Java API documentation generator
 * [JSDoc](https://jsdoc.app/) - JavaScript API documentation generator
+* [pydoc](https://docs.python.org/3/library/pydoc.html) - Python module documentation generator
+* [Javadoc](https://www.oracle.com/java/technologies/javase/javadoc-tool.html) - Java API documentation generator
+* [rustdoc](https://doc.rust-lang.org/rustdoc/index.html) - Rust crate documentation generator 
 * [EDoc](https://www.erlang.org/doc/apps/edoc/chapter.html) - Erlang documentation generator
 
 ## Style Guides
