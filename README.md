@@ -33,3 +33,4 @@ A list of resources that I've found were helpful during my career as a technical
 * [GitHub Emojis](https://gist.github.com/rxaviers/7360908) - :octocat: - Complete list of github markdown emoji markup
 * [Beautiful Docs](https://github.com/matheusfelipeog/beautiful-docs) - 📝 - List of docs and other resources that you may find useful, well-written, or beautiful
 * [Grammar Bytes!](https://twitter.com/grammarbytes) - :books: - Daily English grammar quizzes
+* [Up for Grabs](https://up-for-grabs.net) - :thumbsup: - List of open source projects with curated tasks and issues, specifically for new contributors
