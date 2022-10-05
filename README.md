@@ -25,7 +25,6 @@ Tools that automatically generate reference documentation for programming langua
 
 ## Open Source Tools
 Tools I've used while working with the open source community.
-* [GitHub Emojis](https://gist.github.com/rxaviers/7360908) - :octocat: - Complete list of github markdown emoji markup.
 * [Up for Grabs](https://up-for-grabs.net) - :thumbsup: - Open source projects that have curated tasks and issues for new contributors.
 * [gitmostwanted](https://gitmostwanted.com/) - :mag: - Analysis of GH Archive data used to highlight interesting repositories.
 
@@ -40,5 +39,6 @@ Style guides for guidance and reference when working with or creating technical 
 
 ## Other Things
 Miscellaneous resources I've used during my career as a technical writer.
+* [GitHub Emojis](https://gist.github.com/rxaviers/7360908) - :octocat: - Complete list of github markdown emoji markup.
 * [Beautiful Docs](https://github.com/matheusfelipeog/beautiful-docs) - 📝 - Docs and other resources that you may find useful, well-written, or beautiful.
 * [Grammar Bytes!](https://twitter.com/grammarbytes) - :books: - Daily English grammar quizzes.
