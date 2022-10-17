@@ -23,6 +23,10 @@ Tools that automatically generate reference documentation for programming langua
 | Rust          | [rustdoc](https://doc.rust-lang.org/rustdoc/index.html)                       | Rust crate documentation generator     |
 | Erlang        | [EDoc](https://www.erlang.org/doc/apps/edoc/chapter.html)                     | Erlang documentation generator         |
 
+## Third-Party Dev Tools
+Third-party developer tools I've used while building things.
+* [JSONLint](https://jsonlint.com/) - :file_folder: - Easy-to-use, quick JSON validator.
+
 ## Open Source Tools
 Tools I've used while working with the open source community.
 * [Up for Grabs](https://up-for-grabs.net) - :thumbsup: - Open source projects that have curated tasks and issues for new contributors.
