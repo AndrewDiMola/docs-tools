@@ -23,10 +23,6 @@ Tools that automatically generate reference documentation for programming langua
 | Rust          | [rustdoc](https://doc.rust-lang.org/rustdoc/index.html)                       | Rust crate documentation generator     |
 | Erlang        | [EDoc](https://www.erlang.org/doc/apps/edoc/chapter.html)                     | Erlang documentation generator         |
 
-## Third-Party Dev Tools
-Third-party developer tools I've used while building things.
-* [JSONLint](https://jsonlint.com/) - :file_folder: - Easy-to-use, quick JSON validator.
-
 ## Open Source Tools
 Tools I've used while working with the open source community.
 * [Up for Grabs](https://up-for-grabs.net) - :thumbsup: - Open source projects that have curated tasks and issues for new contributors.
@@ -42,8 +38,10 @@ Style guides for guidance and reference when working with or creating technical 
 * [Microsoft Writing](https://learn.microsoft.com/en-us/style-guide/welcome/) - Style guide for style and terminology related to computer technology.
 
 ## Other Things
-Miscellaneous resources I've used during my career as a technical writer.
+Miscellaneous resources.
 * [GitHub Emojis](https://gist.github.com/rxaviers/7360908) - :octocat: - Complete list of github markdown emoji markup.
 * [Beautiful Docs](https://github.com/matheusfelipeog/beautiful-docs) - 📝 - Docs and other resources that you may find useful, well-written, or beautiful.
 * [Grammar Bytes!](https://twitter.com/grammarbytes) - :books: - Daily English grammar quizzes.
 * [Capitalize My Title](https://capitalizemytitle.com/) - :abcd: - Text transformation service for different style guides, cases, and capitalization rules.
+* [JSONLint](https://jsonlint.com/) - :file_folder: - Easy-to-use, quick JSON validator.
+* [Rubular](https://rubular.com/) - :gem: - Ruby-based regular expression editor.
