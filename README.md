@@ -40,7 +40,7 @@ Style guides for guidance and reference when working with or creating technical 
 ## Other Things
 Miscellaneous resources.
 * [GitHub Emojis](https://gist.github.com/rxaviers/7360908) - :octocat: - Complete list of github markdown emoji markup.
-* [GitHub Profile Achievements](https://github.com/Schweinepriester/github-profile-achievements) - :trophy: - Maintained list of all achievements available for GitHub profiles.
+* [GitHub Profile Achievements](https://github.com/Schweinepriester/github-profile-achievements) - :trophy: - Maintained list of all achievements available on GitHub profiles.
 * [Beautiful Docs](https://github.com/matheusfelipeog/beautiful-docs) - 📝 - Docs and other resources that you may find useful, well-written, or beautiful.
 * [Grammar Bytes!](https://twitter.com/grammarbytes) - :books: - Daily English grammar quizzes.
 * [Capitalize My Title](https://capitalizemytitle.com/) - :abcd: - Text transformation service for different style guides, cases, and capitalization rules.
