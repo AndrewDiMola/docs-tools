@@ -27,8 +27,11 @@ Links that point to documentation tools, generators, and other useful things.
 * [GitHub Profile Achievements](https://github.com/Schweinepriester/github-profile-achievements) - :trophy: - Maintained list of all achievements available on GitHub profiles.
 * [Up for Grabs](https://up-for-grabs.net) - :thumbsup: - Open source projects that have curated tasks and issues for new contributors.
 * [gitmostwanted](https://gitmostwanted.com/) - :mag: - Analysis of GH Archive data used to highlight interesting repositories.
-* [github-repo-stats](https://github.com/jgehrcke/github-repo-stats) - :chart_with_upwards_trend: - GitHub Action for advanced repository traffic analysis and reporting.
 * [shields](https://github.com/badges/shields) - :cool: - Free service that generates badges in SVG and raster format for GitHub readmes.
+
+All About Metrics
+* [github-repo-stats](https://github.com/jgehrcke/github-repo-stats) - :chart_with_upwards_trend: - GitHub Action for advanced repository traffic analysis and reporting.
+* [npm-stat](https://npm-stat.com/) - :chart_with_upwards_trend: - Statistics for npm packages.
 
 ## Style Guides & Language Help
 * [Google Developer Documentation](https://developers.google.com/style) - Style guide for Google-related developer documentation.
